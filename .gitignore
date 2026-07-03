@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# ZenML
+.zen/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Models
+saved_model/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
